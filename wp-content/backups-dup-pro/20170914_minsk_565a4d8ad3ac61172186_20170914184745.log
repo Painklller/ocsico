@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2017-09-14 18:47:50
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.4.8
+WORDPRESS:	4.8.1
+PHP INFO:	7.0.21 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 5000M (1536M default) 
+RUN TYPE: Manual
+MEMORY STACK: 24MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:21 | filtered:0 | create:21 
+FILTERED: [] 
+SQL CREATED: 20170914_minsk_565a4d8ad3ac61172186_20170914184745_database.sql 
+SQL FILE SIZE: 1.58MB 
+SQL FILE TIME: 2017-09-14 18:47:51 
+SQL RUNTIME: 0.113 sec. 
+MEMORY STACK: 24MB 
+
+******************************************************************************** 
+ARCHIVE Mode:ZipArchive Multi-Threaded 
+******************************************************************************** 
+ARCHIVE DIR:  D:/OSPanel/domains/ocsico.loc 
+ARCHIVE FILE: 20170914_minsk_565a4d8ad3ac61172186_20170914184745_archive.zip 
+COMPRESSION: *ON* 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	82.01MB 
+STATS:	Dirs 430 | Files 4,958 | Total 5,388 
+SQL ADDED: 20170914_minsk_565a4d8ad3ac61172186_20170914184745_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5104
+    [filename] => D:\OSPanel\domains\ocsico.loc\wp-content\backups-dup-pro\tmp\20170914_minsk_565a4d8ad3ac61172186_20170914184745_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5388
+    [filename] => D:\OSPanel\domains\ocsico.loc\wp-content\backups-dup-pro\tmp\20170914_minsk_565a4d8ad3ac61172186_20170914184745_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSED SIZE: 84.63MB 
+ARCHIVE RUNTIME: 1.344 sec. 
+MEMORY STACK: 40MB 
+Installer files added to archive 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, D:/OSPanel/domains/ocsico.loc/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 1.58MB 
+INSTALLER FILE: 28.52KB 
+ARCHIVE FILE: 86.88MB  
+EXPECTED FILE/DIRECTORY COUNT: 5,388 
+ACTUAL FILE/DIRECTORY COUNT: 5,388 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 22.127 sec.
+PEAK PHP MEMORY USED: 40MB
+DONE PROCESSING => 20170914_minsk 2017-09-14 18:48:13
+ 

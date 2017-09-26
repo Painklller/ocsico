@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-09-14 19:30:05
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.24
+WORDPRESS:	4.8.1
+PHP INFO:	7.0.21 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1536M default) 
+MEMORY STACK: 22MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:22 | filtered:0 | create:22 
+FILTERED: [] 
+SQL CREATED: 20170914_minsk_9698f17df92f8be35858170914192958_database.sql 
+SQL FILE SIZE: 1.59MB (1671092) 
+SQL FILE TIME: 2017-09-14 19:30:05 
+SQL RUNTIME: 0.08 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/OSPanel/domains/ocsico.loc 
+ARCHIVE FILE: 20170914_minsk_9698f17df92f8be35858170914192958_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	84.36MB 
+STATS:	Dirs 461 | Files 5,084 
+SQL ADDED: 20170914_minsk_9698f17df92f8be35858170914192958_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5545
+    [filename] => D:\OSPanel\domains\ocsico.loc\wp-snapshots\tmp\20170914_minsk_9698f17df92f8be35858170914192958_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 46.05MB 
+ARCHIVE RUNTIME: 8.18 sec. 
+MEMORY STACK: 26MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [D:/OSPanel/domains/ocsico.loc/wp-snapshots/tmp/20170914_minsk_9698f17df92f8be35858170914192958_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.59MB 
+Installer File: 434.96KB 
+Archive File: 46.05MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 8.67 sec.
+PEAK PHP MEMORY USED: 26MB
+DONE PROCESSING => 20170914_minsk 2017-09-14 19:30:14
+ 
